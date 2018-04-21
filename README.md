@@ -1,4 +1,4 @@
-# Cours React en français sur OpenClassrooms
+# Cours React en français sur OpenClassrooms --- Hello World !
 
 Ce dépôt sert de support au cours francophone React sur [OpenClassrooms](https://openclassrooms.com/).
 
